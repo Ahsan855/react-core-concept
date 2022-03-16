@@ -38,6 +38,7 @@ function App() {
 function Person(props){
   return (
     <div className='person'>
+      <h1>Ahsan habib</h1>
       <h1>{props.name}</h1>
       <p>{props.nayika}</p>
   </div>
